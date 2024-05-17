@@ -320,6 +320,7 @@ color: #FFA927;
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
+    font-size: small;
 }
 .nerqevchild{
     height: 130px;
@@ -342,7 +343,6 @@ color: #FFA927;
 .eter{
     font-weight: bold;
 }
-
 @keyframes anime {
     from{
         width: 0px;
